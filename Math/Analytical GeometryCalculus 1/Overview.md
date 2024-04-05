@@ -1,0 +1,2 @@
+[[Velocity|Average Velocity]] - The beginning of some Algebra transferring to Calculus through Limits and Derivatives
+[[Limits]] - Introduction to measuring things that are unmeasurable with a single data point (or unable to be a certain value)

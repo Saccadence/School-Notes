@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "autoConvertHtml": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

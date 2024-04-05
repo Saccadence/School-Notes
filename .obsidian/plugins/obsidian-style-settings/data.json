@@ -1,0 +1,9 @@
+{
+  "encore-settings@@theme-dark": "encore-theme-dark-materialocean",
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-disable-grain": true,
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true,
+  "quick-explorer@@qe-obsidian-title": "qe-title-center",
+  "quick-explorer@@qe-hide-breadcrumbs": false
+}

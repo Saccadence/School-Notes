@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSize": 14,
+  "translucency": false,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Bullet Style Leveled"
+  ],
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
+}

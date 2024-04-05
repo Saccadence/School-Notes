@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "69aad105d8440c0d",
+      "type": "text",
+      "text": "Start\n",
+      "shape": "oval",
+      "x": -140,
+      "y": -1040,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fd466c1fdb81e197",
+      "type": "text",
+      "text": "Initialize Variables:\nstring favoriteFirstName\nint age\nchar gender",
+      "shape": "centered-rectangle",
+      "x": -140,
+      "y": -780,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "cfb3b5e20c815469",
+      "type": "text",
+      "text": "Output: Name and Due date",
+      "shape": "parallelogram",
+      "x": -140,
+      "y": -900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "08d491f3cbd39f85",
+      "type": "text",
+      "text": "Prompt User Inputs",
+      "shape": "parallelogram",
+      "x": -140,
+      "y": -600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "332994358a528cba",
+      "type": "text",
+      "text": "Evaluate whether inputs align with preset values:\nage > 17\ngender = F\nfavoriteFirstName = YourFavoriteNameHere",
+      "shape": "centered-rectangle",
+      "x": -195,
+      "y": -480,
+      "width": 370,
+      "height": 120
+    },
+    {
+      "id": "658f812f7d562eaa",
+      "type": "text",
+      "text": "Output results of evaluation",
+      "shape": "parallelogram",
+      "x": -140,
+      "y": -300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2e0dbc847717a2e9",
+      "type": "text",
+      "text": "End",
+      "shape": "oval",
+      "x": -140,
+      "y": -180,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "b38e50ad96aea246",
+      "fromNode": "69aad105d8440c0d",
+      "fromSide": "bottom",
+      "toNode": "cfb3b5e20c815469",
+      "toSide": "top"
+    },
+    {
+      "id": "429bcbd4ca2feaac",
+      "fromNode": "cfb3b5e20c815469",
+      "fromSide": "bottom",
+      "toNode": "fd466c1fdb81e197",
+      "toSide": "top"
+    },
+    {
+      "id": "b95e924c85fd1281",
+      "fromNode": "fd466c1fdb81e197",
+      "fromSide": "bottom",
+      "toNode": "08d491f3cbd39f85",
+      "toSide": "top"
+    },
+    {
+      "id": "3e0e178a701f8939",
+      "fromNode": "08d491f3cbd39f85",
+      "fromSide": "bottom",
+      "toNode": "332994358a528cba",
+      "toSide": "top"
+    },
+    {
+      "id": "706741ad58f15885",
+      "fromNode": "332994358a528cba",
+      "fromSide": "bottom",
+      "toNode": "658f812f7d562eaa",
+      "toSide": "top"
+    },
+    {
+      "id": "933a157f49717c64",
+      "fromNode": "658f812f7d562eaa",
+      "fromSide": "bottom",
+      "toNode": "2e0dbc847717a2e9",
+      "toSide": "top"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "12682021d4ada888",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b0edbbcfbf127bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c266a58c41ed259c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdadf2356d6ddd09",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93fcdea110062d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a74d41c2b1f9c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "addfbd42b50bd9f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b487d24db0285a30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b21abd2d7f644e45",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b50eefd7f5246c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4bbbf05c941f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad0f2c6d4eed9d5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f69ae74372555b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2bb22ad47780874",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5464ffb804f4da18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md"
+              }
+            }
+          },
+          {
+            "id": "9d3904fe6be38fec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "475ebd2d7a2676ad",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "media-extended:Open media": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c266a58c41ed259c",
+  "lastOpenFiles": [
+    "School-Notes/README.md",
+    "School-Notes",
+    "Tasks.md",
+    "Spaces/Home/Home.md",
+    "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+    "Obsidian-School-Notes",
+    "Book Writing - Philosophy.md",
+    "Vault.md",
+    "Computer Science/The Basis of Computer Code.md",
+    "Computer Science/Sequences and Alternative Sequences.md",
+    "Computer Science/Operating System.md",
+    "School Notes.md",
+    "Attachments/6.+The+Construction+of+Social+Reality+(SCAN).pdf",
+    "Attachments/document2.pdf",
+    "Attachments/document1.pdf",
+    "Attachments/document.pdf",
+    "Philosophy/Philosophy Overview/Modern Philosophy.md",
+    "Computer Science/Alternative Sequences - Switch.md",
+    "Computer Science/Projects/Week 10 - Ticket Price.md",
+    "Computer Science/Projects/Week 10 - Range.md",
+    "Computer Science/Projects/Week 10 - Main Menu.md",
+    "Computer Science/Projects/Week 10 - Code Read.md",
+    "Attachments/Pasted image 20240324210627.png",
+    "Attachments/Pasted image 20240324210622.png",
+    "Attachments/Pasted image 20240324204344.png",
+    "Attachments/Pasted image 20240324201406.png",
+    "Computer Science/Projects/Midterm - Code Fixing.md",
+    "Attachments/Pasted image 20240317211710.png",
+    "Computer Science/Projects/Midterm Flowchart.canvas",
+    "Attachments/Pasted image 20240317211202.png",
+    "Attachments/Screenshot_129.png",
+    "Computer Science/Projects/Week 9 - Play.md",
+    "Attachments/Pasted image 20240317202140.png",
+    "Computer Science/Projects/Week 9 - Relational Expressions.md",
+    "Computer Science/Projects/Week 9 - Truth Table.md",
+    "Computer Science/Projects/Week 9 - Expression Evaluation.md",
+    "Attachments/Pasted image 20240317201331.png",
+    "Computer Science/Projects/Week 9 - Lunch.md",
+    "Attachments/Pasted image 20240317195322.png",
+    "Computer Science/Alternative Sequences and Complex Logical Criteria.md",
+    "Computer Science/Projects/Week 8 - Fahrenheit to Centigrade.md",
+    "Computer Science/Projects/Week 8 - Code Fixing.md",
+    "Computer Science/Language Keywords and Symbols, Libraries, Declaration Statements - Operators and Precedence.md",
+    "History/World History Overview/Research - Advent of Philosophy",
+    "History/World History Overview",
+    "History",
+    "Computer Science/Projects",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
