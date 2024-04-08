@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "file": "Computer Science/Projects/Week 11 - Multiplication Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,14 +66,15 @@
             }
           },
           {
-            "id": "b21abd2d7f644e45",
+            "id": "fdcb18f320a1de95",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "file": "Computer Science/Projects/Week 11 - Multiplication Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+                "file": "Computer Science/Projects/Week 11 - Multiplication Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md"
+                "file": "Computer Science/Projects/Week 11 - Multiplication Table.md"
               }
             }
           },
@@ -182,11 +183,27 @@
   },
   "active": "c266a58c41ed259c",
   "lastOpenFiles": [
+    "Computer Science/Projects/Week 11 - n Counter (Empty For Loop).md",
+    "Computer Science/Projects/Week 11 - Multiplication Table.md",
+    "Attachments/Screenshot_135.png",
+    "Attachments/Screenshot_134.png",
+    "Computer Science/Projects/Week 11 - Code Fix.md",
+    "Attachments/Screenshot_133.png",
+    "Attachments/Screenshot_132.png",
+    "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
+    "Computer Science/Projects/Week 11 - Walking Down the Stairs.md",
+    "Attachments/Screenshot_22.png",
+    "Computer Science/Projects/Week 11 - Example Flowcharts.md",
+    "Attachments/Screenshot_21.png",
+    "Attachments/Screenshot_20.png",
+    "Attachments/Screenshot_19.png",
+    "Attachments/Screenshot_18.png",
+    "Computer Science/Repeating Sequences and Loops.md",
+    "Untitled.md",
     "School-Notes/README.md",
     "School-Notes",
     "Tasks.md",
     "Spaces/Home/Home.md",
-    "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
     "Obsidian-School-Notes",
     "Book Writing - Philosophy.md",
     "Vault.md",
@@ -205,26 +222,9 @@
     "Computer Science/Projects/Week 10 - Main Menu.md",
     "Computer Science/Projects/Week 10 - Code Read.md",
     "Attachments/Pasted image 20240324210627.png",
-    "Attachments/Pasted image 20240324210622.png",
-    "Attachments/Pasted image 20240324204344.png",
-    "Attachments/Pasted image 20240324201406.png",
     "Computer Science/Projects/Midterm - Code Fixing.md",
-    "Attachments/Pasted image 20240317211710.png",
     "Computer Science/Projects/Midterm Flowchart.canvas",
-    "Attachments/Pasted image 20240317211202.png",
-    "Attachments/Screenshot_129.png",
     "Computer Science/Projects/Week 9 - Play.md",
-    "Attachments/Pasted image 20240317202140.png",
-    "Computer Science/Projects/Week 9 - Relational Expressions.md",
-    "Computer Science/Projects/Week 9 - Truth Table.md",
-    "Computer Science/Projects/Week 9 - Expression Evaluation.md",
-    "Attachments/Pasted image 20240317201331.png",
-    "Computer Science/Projects/Week 9 - Lunch.md",
-    "Attachments/Pasted image 20240317195322.png",
-    "Computer Science/Alternative Sequences and Complex Logical Criteria.md",
-    "Computer Science/Projects/Week 8 - Fahrenheit to Centigrade.md",
-    "Computer Science/Projects/Week 8 - Code Fixing.md",
-    "Computer Science/Language Keywords and Symbols, Libraries, Declaration Statements - Operators and Precedence.md",
     "History/World History Overview/Research - Advent of Philosophy",
     "History/World History Overview",
     "History",

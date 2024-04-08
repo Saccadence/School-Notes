@@ -49,10 +49,10 @@
     "//History/History/Western Civilization",
     "//History/History/Western Civilization",
     "//Computer Science",
-    "//Philosophy",
     "Spaces/Home",
     "Spaces/Home//",
-    "/"
+    "/",
+    "//Computer Science/Computer Science/Projects"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
