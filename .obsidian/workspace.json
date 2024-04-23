@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c266a58c41ed259c",
+            "id": "e2ec2726c6318529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Repeating Sequences and Loops.md",
+                "file": "Computer Science/Many to One - Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,19 +66,19 @@
             }
           },
           {
-            "id": "fdcb18f320a1de95",
+            "id": "37ec1238bc0c306f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5b50eefd7f5246c2",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Repeating Sequences and Loops.md",
+                "file": "Computer Science/Many to One - Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Repeating Sequences and Loops.md",
+                "file": "Computer Science/Many to One - Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Repeating Sequences and Loops.md"
+                "file": "Computer Science/Many to One - Arrays.md"
               }
             }
           },
@@ -181,50 +181,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fdcb18f320a1de95",
+  "active": "e2ec2726c6318529",
   "lastOpenFiles": [
+    "Computer Science/Projects/Week 13 - Reverse Names.md",
+    "Attachments/Screenshot_33 1.png",
+    "Attachments/Screenshot_33.png",
+    "Computer Science/Projects/Week 13 - Summary.md",
+    "Computer Science/Projects/Week 13 - Multiplication Table.md",
+    "Attachments/Screenshot_32.png",
+    "Computer Science/Projects/Week 13 - Explain.md",
+    "Computer Science/Projects/Week 13 - OoB Array.md",
+    "Computer Science/Projects/Week 13 - Names.md",
+    "Attachments/Screenshot_31.png",
+    "Computer Science/Projects/Week 13 - Max Size.md",
+    "Computer Science/Projects/Week 13 - Variables vs. Arrays.md",
+    "Attachments/Screenshot_30.png",
+    "Attachments/Pasted image 20240418191214.png",
+    "Computer Science/Contiguous Repeating Sequences and the WHILE and DO WHILE Loops.md",
+    "Computer Science/Many to One - Arrays.md",
+    "Computer Science/Repeating Sequences and Loops.md",
+    "Computer Science/Projects/Week 12 - Example 1 Modification.md",
+    "Computer Science/Projects/Week 12 - Temperature Conversion.md",
+    "Attachments/Screenshot_29.png",
+    "Computer Science/Projects/Week 12 - Prime Numbers.md",
+    "Attachments/Screenshot_28.png",
+    "Computer Science/Projects/Week 12 - Code Fix.md",
+    "Attachments/Screenshot_27.png",
+    "Computer Science/Projects/Week 12 - Variable Initialization.md",
+    "Computer Science/Projects/Week 12 - Example Flowcharts.md",
+    "Attachments/Screenshot_26.png",
+    "Computer Science/Projects/Flowchart Workspace.canvas",
     "Computer Science/Projects/Week 11 - Multiplication Table.md",
     "Computer Science/Projects/Week 11 - n Counter (Empty For Loop).md",
-    "Attachments/Screenshot_135.png",
-    "Attachments/Screenshot_134.png",
     "Computer Science/Projects/Week 11 - Code Fix.md",
-    "Attachments/Screenshot_133.png",
-    "Attachments/Screenshot_132.png",
     "Philosophy/Jurgen Debate - Honors (Modern Philosophy).md",
     "Computer Science/Projects/Week 11 - Walking Down the Stairs.md",
-    "Attachments/Screenshot_22.png",
     "Computer Science/Projects/Week 11 - Example Flowcharts.md",
-    "Attachments/Screenshot_21.png",
-    "Attachments/Screenshot_20.png",
-    "Attachments/Screenshot_19.png",
-    "Attachments/Screenshot_18.png",
-    "Computer Science/Repeating Sequences and Loops.md",
     "Untitled.md",
     "School-Notes/README.md",
     "School-Notes",
     "Tasks.md",
-    "Spaces/Home/Home.md",
     "Obsidian-School-Notes",
-    "Book Writing - Philosophy.md",
-    "Vault.md",
-    "Computer Science/The Basis of Computer Code.md",
-    "Computer Science/Sequences and Alternative Sequences.md",
-    "Computer Science/Operating System.md",
-    "School Notes.md",
     "Attachments/6.+The+Construction+of+Social+Reality+(SCAN).pdf",
     "Attachments/document2.pdf",
     "Attachments/document1.pdf",
     "Attachments/document.pdf",
-    "Philosophy/Philosophy Overview/Modern Philosophy.md",
-    "Computer Science/Alternative Sequences - Switch.md",
-    "Computer Science/Projects/Week 10 - Ticket Price.md",
-    "Computer Science/Projects/Week 10 - Range.md",
-    "Computer Science/Projects/Week 10 - Main Menu.md",
-    "Computer Science/Projects/Week 10 - Code Read.md",
-    "Attachments/Pasted image 20240324210627.png",
-    "Computer Science/Projects/Midterm - Code Fixing.md",
     "Computer Science/Projects/Midterm Flowchart.canvas",
-    "Computer Science/Projects/Week 9 - Play.md",
     "History/World History Overview/Research - Advent of Philosophy",
     "History/World History Overview",
     "History",

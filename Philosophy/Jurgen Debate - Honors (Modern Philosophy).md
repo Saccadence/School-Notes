@@ -14,6 +14,14 @@ Answering the question of whether there is something to say about the seemingly 
 | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: |
 |   Limited Conclusions<br>(Due to necessity of<br>rigorous verification<br>for a sense of certainty)   |               Ungroundable<br>(Highly relativistic)               |
 | Potentially Flawed Systems<br>of Thought/Examination<br>(Holes in logic when using<br>a given system) | Unverifiable from<br>any observer outside<br>the original<br><br> |
+## Nature of Certainty
+What does it mean to be certain of something, and to what degree is it possible to be certain of things in the universe that we inhabit?
+### (Topic #1) Lens of Observation
+If certainty is, in any way, obtainable to a significant degree, under what lens of observing and analyzing the world should this be done under?
+#### Analytic (or similar)
+Is the world a (relative to human experience) random/entropic system, devoid of any attribution to human pattern-seeking/reason biases?
+#### Phenomenological (or similar)
+Is the observation of the world something that happens outside of human perception, but the observation and analysis of such should be derived from the human sensory experience and thoughts (and by extension - biases) that comprise the information we collect and therefore should be included in said analysis?
 ## Ideas
 ### Phenomenology
 Mathematics
@@ -39,6 +47,7 @@ Spiegel, T. J. (2022). Normativity between Naturalism and Phenomenology. In Inte
 
 ##### Interpretation/Application
 ###### Questions
+
 ### The Return of Phenomenology to European Psychology
 *Editorial by: Journal fur Psychologie*
 #### Citation

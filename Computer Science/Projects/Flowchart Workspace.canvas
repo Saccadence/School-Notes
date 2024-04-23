@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "dcd5628b3fa5d5fa",
+      "type": "text",
+      "text": "Start",
+      "shape": "oval",
+      "x": -120,
+      "y": -340,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "48b9e559a00da9ba",
+      "type": "text",
+      "text": "Initialize variables:\ni = 6",
+      "shape": "centered-rectangle",
+      "x": -120,
+      "y": -240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4ceb49518e07757c",
+      "type": "text",
+      "text": "End",
+      "shape": "oval",
+      "x": -120,
+      "y": 20,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3aaf3b5de76c09da",
+      "type": "text",
+      "text": "Is i < 10?",
+      "shape": "diamond",
+      "x": -120,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8cc35732ea5fc95b",
+      "type": "text",
+      "text": "i = 11",
+      "shape": "centered-rectangle",
+      "x": 400,
+      "y": -120,
+      "width": 74,
+      "height": 60
+    },
+    {
+      "id": "86a354a50a538d17",
+      "type": "text",
+      "text": "Output: i = ...",
+      "shape": "parallelogram",
+      "x": 240,
+      "y": -120,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "35f487923fdf522d",
+      "type": "text",
+      "text": "Example #5",
+      "shape": "centered-rectangle",
+      "x": 80,
+      "y": -440,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "08336f164c87ad40",
+      "fromNode": "dcd5628b3fa5d5fa",
+      "fromSide": "bottom",
+      "toNode": "48b9e559a00da9ba",
+      "toSide": "top"
+    },
+    {
+      "id": "22cbaa21a4265fc9",
+      "fromNode": "3aaf3b5de76c09da",
+      "fromSide": "bottom",
+      "toNode": "4ceb49518e07757c",
+      "toSide": "top",
+      "label": "No"
+    },
+    {
+      "id": "b00dc735e66f5e00",
+      "fromNode": "3aaf3b5de76c09da",
+      "fromSide": "right",
+      "toNode": "86a354a50a538d17",
+      "toSide": "left",
+      "label": "Yes"
+    },
+    {
+      "id": "0bf606cfc78e745e",
+      "fromNode": "86a354a50a538d17",
+      "fromSide": "right",
+      "toNode": "8cc35732ea5fc95b",
+      "toSide": "left"
+    },
+    {
+      "id": "fd4e6cba8668499d",
+      "edgePathRoute": "a-star",
+      "fromNode": "8cc35732ea5fc95b",
+      "fromSide": "right",
+      "toNode": "3aaf3b5de76c09da",
+      "toSide": "top"
+    },
+    {
+      "id": "e4cb25f1c4174e94",
+      "fromNode": "48b9e559a00da9ba",
+      "fromSide": "bottom",
+      "toNode": "3aaf3b5de76c09da",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

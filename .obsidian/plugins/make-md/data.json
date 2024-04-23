@@ -25,7 +25,7 @@
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -40,18 +40,17 @@
     null,
     null,
     "//World History/World History/World History Overview",
+    "//Philosophy/Philosophy/Philosophy Overview",
     "//World History/World History/World History Overview/World History/World History Overview/Additional Information",
     "//World History/World History/World History Overview/World History/World History Overview/Additional Information/World History/World History Overview/Additional Information/Chapter 7",
     "//Public Speaking/Public Speaking/Persuasive Speech",
     "//Math/Math/Statistics/Math/Statistics/media",
     "//Math/Math/Analytical GeometryCalculus 1",
+    "//Philosophy/Philosophy/Philosophy Overview",
     "//World History",
     "//History/History/Western Civilization",
     "//History/History/Western Civilization",
-    "//Computer Science",
-    "Spaces/Home",
-    "Spaces/Home//",
-    "/"
+    "//Computer Science"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -64,7 +63,9 @@
     "Context"
   ],
   "hiddenExtensions": [
-    ".mdb"
+    ".mdb",
+    "_assets",
+    "_blocks"
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
